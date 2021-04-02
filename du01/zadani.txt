@@ -10,7 +10,8 @@ k výdejnímu okénku za co nejkratší čas. Za jednu jednotku času můžete v
 buď se předběhnout v rámci fronty, ve které stojíte (tj. posunout se o jedno místo dopředu),
 přepustit své místo a posunout se opět v téže frontě o jedno místo dozadu,
 nebo můžete využít svých známostí a vyměnit si místa s kamarádem, který stojí ve vedlejší frontě o na vstupu zadaný počet míst před vámi.
-V obou frontách samozřejmě stojí pro vás nevhodní lidé, se kterými byste se neradi dostali do křížku — např. profesoři, či spolužáci, kteří v rámci tělocviku pravidelně navštěvují posilovnu. Na tato místa ve frontě se proto přemístit nemůžete (a to ani tehdy, pokud byste se tam dostali přepuštěním svého lepšího místa).
+V obou frontách samozřejmě stojí pro vás nevhodní lidé, se kterými byste se neradi dostali do křížku — např. profesoři, či spolužáci, 
+kteří v rámci tělocviku pravidelně navštěvují posilovnu. Na tato místa ve frontě se proto přemístit nemůžete (a to ani tehdy, pokud byste se tam dostali přepuštěním svého lepšího místa).
 Navíc je zapotřebí jednat rychle, neboť podlahu v menze brzy začne vytírat uklízečka. Na již vytřené podlaze se v žádném případě nesmíte vyskytnout.
 K dispozici máte na vstupu délku front (ta je stejná pro obě), konkrétní počet míst, o který můžete přeskakovat do vedlejší fronty, a mapu front s vyznačenými 
 místy, kde stojí pro výměnu nevhodní lidé. Za dosažení výdejního okénka se počítá dosažení libovolného místa za koncem libovolné fronty. Pohyb za konec fronty
