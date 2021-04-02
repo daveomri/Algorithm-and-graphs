@@ -1,6 +1,11 @@
-Po hezky strávených prázdninách jste se opět vrátili do školy. Bohužel se vám však nepodařilo sestavit dobrý rozvrh, a tak valnou část týdne nemáte příliš času skočit si na oběd. Počítali jste ovšem s tím, že rychlá otočka v menze vám nezabere více než pár minut. Jaké však bylo vaše překvapení, když jste při první návštěvě menzy strávili hodinu ve frontě, neboť celý kampus je přeplněný zmateně pobíhajícími prváky. Vy už naštěstí vyjukaní bažanti nejste, a tak si můžete při bitvě o výdejní okénko pomoci špinavými triky.
+Po hezky strávených prázdninách jste se opět vrátili do školy. Bohužel se vám však nepodařilo sestavit 
+dobrý rozvrh, a tak valnou část týdne nemáte příliš času skočit si na oběd. Počítali jste ovšem s tím, 
+že rychlá otočka v menze vám nezabere více než pár minut. Jaké však bylo vaše překvapení, když jste při 
+první návštěvě menzy strávili hodinu ve frontě, neboť celý kampus je přeplněný zmateně pobíhajícími prváky. 
+Vy už naštěstí vyjukaní bažanti nejste, a tak si můžete při bitvě o výdejní okénko pomoci špinavými triky.
 
-Budete se pohybovat v menze, kde jsou dvě fronty, které se vůbec nehýbou, a vaším úkolem bude dostat se k výdejnímu okénku za co nejkratší čas. Za jednu jednotku času můžete vykonat jednu z následujících akcí:
+Budete se pohybovat v menze, kde jsou dvě fronty, které se vůbec nehýbou, a vaším úkolem bude dostat se 
+k výdejnímu okénku za co nejkratší čas. Za jednu jednotku času můžete vykonat jednu z následujících akcí:
 
 buď se předběhnout v rámci fronty, ve které stojíte (tj. posunout se o jedno místo dopředu),
 přepustit své místo a posunout se opět v téže frontě o jedno místo dozadu,
