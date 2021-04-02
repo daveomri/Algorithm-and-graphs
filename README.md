@@ -1,1 +1,1 @@
-# BI-AG1
+All three tasks were implemented for BI-AG1
